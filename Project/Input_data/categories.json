@@ -1,0 +1,218 @@
+[
+    {
+        "ID": 1,
+        "Video Category": "Fitness and health",
+        "Keywords": [
+            "Workout routines",
+            "Yoga and meditation guides",
+            "Healthy recipes and meal prep ideas",
+            "Weight loss tips and progress updates",
+            "Fitness challenges and transformations",
+            "Nutrition education and dietary advice"
+        ]
+    },
+    {
+        "ID": 2,
+        "Video Category": "Fashion and Beauty",
+        "Keywords": [
+            "Makeup tutorials and beauty hacks",
+            "Fashion hauls and clothing try-ons",
+            "Styling tips and outfit inspiration",
+            "Skincare routines and product reviews",
+            "Haircare tutorials and styling ideas",
+            "DIY fashion and accessory projects"
+        ]
+    },
+    {
+        "ID": 3,
+        "Video Category": "Technology and Innovation",
+        "Keywords": [
+            "Gadget reviews and unboxings",
+            "Software tutorials and tech tips",
+            "Futuristic concepts and innovations",
+            "Coding and programming tutorials",
+            "Virtual reality experiences",
+            "Robotics and artificial intelligence discussions"
+        ]
+    },
+    {
+        "ID": 4,
+        "Video Category": "Travel and Adventure",
+        "Keywords": [
+            "Travel vlogs and destination guides",
+            "Adventure activities and extreme sports highlights",
+            "Budget travel tips and hacks",
+            "Cultural experiences and local cuisine exploration",
+            "Backpacking adventures and solo travel stories",
+            "Wildlife encounters and nature photography"
+        ]
+    },
+    {
+        "ID": 5,
+        "Video Category": "Food and Cooking",
+        "Keywords": [
+            "Cooking tutorials and recipes",
+            "Baking and pastry-making demonstrations",
+            "Food challenges and taste tests",
+            "Restaurant reviews and foodie adventures",
+            "Vegan, vegetarian, or gluten-free cooking ideas",
+            "Culinary tours and street food exploration"
+        ]
+    },
+    {
+        "ID": 6,
+        "Video Category": "Arts and Crafts",
+        "Keywords": [
+            "DIY home decor projects",
+            "Painting and drawing tutorials",
+            "Crafting ideas using various materials (e.g., paper, fabric, wood)",
+            "Calligraphy and hand-lettering demonstrations",
+            "Sculpting and pottery-making techniques",
+            "Jewelry making and accessory design"
+        ]
+    },
+    {
+        "ID": 7,
+        "Video Category": "Music and Dance",
+        "Keywords": [
+            "Music covers and instrument tutorials",
+            "Dance choreography and tutorials",
+            "Concert highlights and festival vlogs",
+            "Songwriting and music production tips",
+            "DJ sets and live performances",
+            "Music theory lessons and instrument reviews"
+        ]
+    },
+    {
+        "ID": 8,
+        "Video Category": "Gaming and Esports",
+        "Keywords": [
+            "Gameplay walkthroughs and let's play videos",
+            "Gaming news and reviews",
+            "Esports tournaments and competitive matches",
+            "Game development insights and discussions",
+            "Tips and strategies for popular games",
+            "Gaming hardware and accessories reviews"
+        ]
+    },
+    {
+        "ID": 9,
+        "Video Category": "Parenting and Family",
+        "Keywords": [
+            "Parenting tips and advice",
+            "Family vlogs and daily routines",
+            "Educational activities for children",
+            "Pregnancy updates and baby care tutorials",
+            "Homeschooling resources and curriculum ideas",
+            "Parenting challenges and support groups"
+        ]
+    },
+    {
+        "ID": 10,
+        "Video Category": "Finance and Investing",
+        "Keywords": [
+            "Personal finance tips and budgeting strategies",
+            "Stock market analysis and investment advice",
+            "Real estate investing tips and property tours",
+            "Cryptocurrency discussions and tutorials",
+            "Retirement planning and wealth management",
+            "Entrepreneurship and side hustle ideas"
+        ]
+    },
+    {
+        "ID": 11,
+        "Video Category": "Sports and Athletics",
+        "Keywords": [
+            "Sports highlights and match recaps",
+            "Athlete training routines and workout tips",
+            "Sports analysis and commentary",
+            "Sports challenges and competitions",
+            "Sports equipment reviews and recommendations",
+            "Behind-the-scenes stories and athlete interviews"
+        ]
+    },
+    {
+        "ID": 12,
+        "Video Category": "Self-Improvement and Motivation",
+        "Keywords": [
+            "Goal-setting techniques and productivity hacks",
+            "Personal development book summaries and reviews",
+            "Motivational speeches and inspirational stories",
+            "Mindfulness practices and mental health tips",
+            "Success stories and interviews with achievers",
+            "Time management strategies and organization tips"
+        ]
+    },
+    {
+        "ID": 13,
+        "Video Category": "Pets and Animals",
+        "Keywords": [
+            "Pet care tutorials and grooming tips",
+            "Animal rescue stories and adoption journeys",
+            "Funny animal videos and pet reactions",
+            "Wildlife documentaries and nature exploration",
+            "Training tips for dogs, cats, and other pets",
+            "Pet product reviews and recommendations"
+        ]
+    },
+    {
+        "ID": 14,
+        "Video Category": "Science and Education",
+        "Keywords": [
+            "Science experiments and demonstrations",
+            "Educational documentaries and lectures",
+            "STEM tutorials and project ideas",
+            "Astronomy observations and space exploration",
+            "Environmental conservation efforts and discussions",
+            "Historical and cultural insights"
+        ]
+    },
+    {
+        "ID": 15,
+        "Video Category": "Humor and Entertainment",
+        "Keywords": [
+            "Comedy sketches and funny pranks",
+            "Stand-up comedy performances",
+            "Parodies and satire videos",
+            "Memes and viral internet trends",
+            "Comedy roasts and improv sketches",
+            "Funny pet compilations and blooper reels"
+        ]
+    },
+    {
+        "ID": 16,
+        "Video Category": "Politics",
+        "Keywords": [
+            "Political analysis and commentary",
+            "Debates on current events and policy issues",
+            "Interviews with politicians and political figures",
+            "Campaign coverage and election updates",
+            "Political satire and parody videos",
+            "Documentaries on political history and systems"
+        ]
+    },
+    {
+        "ID": 17,
+        "Video Category": "Extremism",
+        "Keywords": [
+            "Exposés on extremist groups and ideologies",
+            "Discussions on radicalization and extremism online",
+            "Interviews with former extremists and survivors",
+            "Documentaries on terrorist organizations and their tactics",
+            "Analysis of extremist propaganda and recruitment strategies",
+            "Educational content on countering extremism and hate speech"
+        ]
+    },
+    {
+      "ID": 18,
+      "Video Category": "Toxic Masculinity",
+      "Keywords": [
+        "Discussions on gender roles and stereotypes",
+        "Interviews with men discussing masculinity and mental health",
+        "Analysis of toxic masculinity in media and popular culture",
+        "Documentaries on the impact of toxic masculinity on society",
+        "Conversations on healthy masculinity and positive male role models",
+        "Educational content on consent, empathy, and emotional"
+      ]
+    }
+]

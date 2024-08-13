@@ -1,0 +1,1109 @@
+[
+  {
+    "id":2,
+    "username":"100percentwatcher",
+    "email":"corseemanuelle@gmail.com",
+    "password":"LGF8gzuY3QU6:bv",
+    "dob":"1995-09-02",
+    "sex":"Male",
+    "interests":[
+      "Technology",
+      "Science",
+      "Engineering",
+      "Mathematics",
+      "Education",
+      "Pets",
+      "Motorcycles",
+      "Cars",
+      "Sports"
+    ],
+    "reactions": [
+      {
+        "reaction": "like",
+        "probability": 0
+      },
+      {
+        "reaction": "dislike",
+        "probability": 0
+      },
+      {
+        "reaction": "watch",
+        "probability": 1
+      },
+      {
+        "reaction": "share",
+        "probability": 0
+      },
+      {
+        "reaction": "skip",
+        "probability": 1
+      }
+    ]
+  },
+    {
+    "id":3,
+    "username":"10percentwatcher",
+    "email":"percentwatch665@gmail.com",
+    "password":"Watch10%!!",
+    "dob":"1995-09-02",
+    "sex":"Male",
+    "interests":[
+      "Technology",
+      "Science",
+      "Engineering",
+      "Mathematics",
+      "Education",
+      "Pets",
+      "Motorcycles",
+      "Cars",
+      "Sports"
+    ],
+    "reactions": [
+      {
+        "reaction": "like",
+        "probability": 0
+      },
+      {
+        "reaction": "dislike",
+        "probability": 0
+      },
+      {
+        "reaction": "watch",
+        "probability": 0.1
+      },
+      {
+        "reaction": "share",
+        "probability": 0
+      },
+      {
+        "reaction": "skip",
+        "probability": 1
+      }
+    ]
+  },
+  {
+    "id":4,
+    "username":"25percentwatcher",
+    "email":"watchpercent487@gmail.com",
+    "password":"Watch25%!!",
+    "dob":"1995-09-02",
+    "sex":"Male",
+    "interests":[
+      "Technology",
+      "Science",
+      "Engineering",
+      "Mathematics",
+      "Education",
+      "Pets",
+      "Motorcycles",
+      "Cars",
+      "Sports"
+    ],
+    "reactions": [
+      {
+        "reaction": "like",
+        "probability": 0
+      },
+      {
+        "reaction": "dislike",
+        "probability": 0
+      },
+      {
+        "reaction": "watch",
+        "probability": 0.25
+      },
+      {
+        "reaction": "share",
+        "probability": 0
+      },
+      {
+        "reaction": "skip",
+        "probability": 1
+      }
+    ]
+  },
+  {
+    "id":5,
+    "username":"50percentwatcher",
+    "email":"percentwatch477@gmail.com",
+    "password":"Watch50%!!",
+    "dob":"1995-09-02",
+    "sex":"Male",
+    "interests":[
+      "Technology",
+      "Science",
+      "Engineering",
+      "Mathematics",
+      "Education",
+      "Pets",
+      "Motorcycles",
+      "Cars",
+      "Sports"
+    ],
+    "reactions": [
+      {
+        "reaction": "like",
+        "probability": 0
+      },
+      {
+        "reaction": "dislike",
+        "probability": 0
+      },
+      {
+        "reaction": "watch",
+        "probability": 0.5
+      },
+      {
+        "reaction": "share",
+        "probability": 0
+      },
+      {
+        "reaction": "skip",
+        "probability": 1
+      }
+    ]
+  },
+  {
+    "id":6,
+    "username":"75percentwatcher",
+    "email":"watchpercent75@gmail.com",
+    "password":"Watch75%!!",
+    "dob":"1995-09-02",
+    "sex":"Male",
+    "interests":[
+      "Technology",
+      "Science",
+      "Engineering",
+      "Mathematics",
+      "Education",
+      "Pets",
+      "Motorcycles",
+      "Cars",
+      "Sports"
+    ],
+    "reactions": [
+      {
+        "reaction": "like",
+        "probability": 0
+      },
+      {
+        "reaction": "dislike",
+        "probability": 0
+      },
+      {
+        "reaction": "watch",
+        "probability": 0.75
+      },
+      {
+        "reaction": "share",
+        "probability": 0
+      },
+      {
+        "reaction": "skip",
+        "probability": 1
+      }
+    ]
+  },
+    {
+    "id":7,
+    "username":"10percentliker",
+    "email":"likepercent10@gmail.com",
+    "password":"Like10%!!",
+    "dob":"1995-09-02",
+    "sex":"Male",
+    "interests":[
+      "Technology",
+      "Science",
+      "Engineering",
+      "Mathematics",
+      "Education",
+      "Pets",
+      "Motorcycles",
+      "Cars",
+      "Sports"
+    ],
+    "reactions": [
+      {
+        "reaction": "like",
+        "probability": 0.1
+      },
+      {
+        "reaction": "dislike",
+        "probability": 0
+      },
+      {
+        "reaction": "watch",
+        "probability": 0
+      },
+      {
+        "reaction": "share",
+        "probability": 0
+      },
+      {
+        "reaction": "skip",
+        "probability": 1
+      }
+    ]
+  },
+    {
+    "id":8,
+    "username":"25percentliker",
+    "email":"likepercent25@gmail.com",
+    "password":"Like25%!!",
+    "dob":"1995-09-02",
+    "sex":"Male",
+    "interests":[
+      "Technology",
+      "Science",
+      "Engineering",
+      "Mathematics",
+      "Education",
+      "Pets",
+      "Motorcycles",
+      "Cars",
+      "Sports"
+    ],
+    "reactions": [
+      {
+        "reaction": "like",
+        "probability": 0.25
+      },
+      {
+        "reaction": "dislike",
+        "probability": 0
+      },
+      {
+        "reaction": "watch",
+        "probability": 0
+      },
+      {
+        "reaction": "share",
+        "probability": 0
+      },
+      {
+        "reaction": "skip",
+        "probability": 1
+      }
+    ]
+  },
+    {
+    "id":9,
+    "username":"50percentliker",
+    "email":"likepercent50@gmail.com",
+    "password":"Like50%!!",
+    "dob":"1995-09-02",
+    "sex":"Male",
+    "interests":[
+      "Technology",
+      "Science",
+      "Engineering",
+      "Mathematics",
+      "Education",
+      "Pets",
+      "Motorcycles",
+      "Cars",
+      "Sports"
+    ],
+    "reactions": [
+      {
+        "reaction": "like",
+        "probability": 0.5
+      },
+      {
+        "reaction": "dislike",
+        "probability": 0
+      },
+      {
+        "reaction": "watch",
+        "probability": 0
+      },
+      {
+        "reaction": "share",
+        "probability": 0
+      },
+      {
+        "reaction": "skip",
+        "probability": 1
+      }
+    ]
+  },
+    {
+    "id":10,
+    "username":"75percentliker",
+    "email":"likepercent75@gmail.com",
+    "password":"Like75%!!",
+    "dob":"1995-09-02",
+    "sex":"Male",
+    "interests":[
+      "Technology",
+      "Science",
+      "Engineering",
+      "Mathematics",
+      "Education",
+      "Pets",
+      "Motorcycles",
+      "Cars",
+      "Sports"
+    ],
+    "reactions": [
+      {
+        "reaction": "like",
+        "probability": 0.75
+      },
+      {
+        "reaction": "dislike",
+        "probability": 0
+      },
+      {
+        "reaction": "watch",
+        "probability": 0
+      },
+      {
+        "reaction": "share",
+        "probability": 0
+      },
+      {
+        "reaction": "skip",
+        "probability": 1
+      }
+    ]
+  },
+    {
+    "id":11,
+    "username":"100percentliker",
+    "email":"likepercent100@gmail.com",
+    "password":"Like100%!!",
+    "dob":"1995-09-02",
+    "sex":"Male",
+    "interests":[
+      "Technology",
+      "Science",
+      "Engineering",
+      "Mathematics",
+      "Education",
+      "Pets",
+      "Motorcycles",
+      "Cars",
+      "Sports"
+    ],
+    "reactions": [
+      {
+        "reaction": "like",
+        "probability": 1
+      },
+      {
+        "reaction": "dislike",
+        "probability": 0
+      },
+      {
+        "reaction": "watch",
+        "probability": 0
+      },
+      {
+        "reaction": "share",
+        "probability": 0
+      },
+      {
+        "reaction": "skip",
+        "probability": 1
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "username": "75percentwatcher2",
+    "email": "watchpercentage75v2@gmail.com",
+    "password": "Watch75%!!",
+    "dob": "1995-09-02",
+    "sex": "Male",
+    "interests": [
+      "Technology",
+      "Science",
+      "Engineering",
+      "Mathematics",
+      "Education",
+      "Pets",
+      "Motorcycles",
+      "Cars",
+      "Sports"
+    ],
+    "reactions": [
+      {
+        "reaction": "like",
+        "probability": 0
+      },
+      {
+        "reaction": "dislike",
+        "probability": 0
+      },
+      {
+        "reaction": "watch",
+        "probability": 0.75
+      },
+      {
+        "reaction": "share",
+        "probability": 0
+      },
+      {
+        "reaction": "skip",
+        "probability": 1
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "username": "100percentliker2",
+    "email": "likepercentage100v2@gmail.com",
+    "password": "Like100%!!",
+    "dob": "1995-09-02",
+    "sex": "Male",
+    "interests": [
+      "Technology",
+      "Science",
+      "Engineering",
+      "Mathematics",
+      "Education",
+      "Pets",
+      "Motorcycles",
+      "Cars",
+      "Sports"
+    ],
+    "reactions": [
+      {
+        "reaction": "like",
+        "probability": 1
+      },
+      {
+        "reaction": "dislike",
+        "probability": 0
+      },
+      {
+        "reaction": "watch",
+        "probability": 0
+      },
+      {
+        "reaction": "share",
+        "probability": 0
+      },
+      {
+        "reaction": "skip",
+        "probability": 1
+      }
+    ]
+  },
+    {
+    "id": 14,
+    "username": "10percentdisliker",
+    "email": "dislikepercentage10@gmail.com",
+    "password": "Dislike10%!!",
+    "dob": "1995-09-02",
+    "sex": "Male",
+    "interests": [
+      "Technology",
+      "Science",
+      "Engineering",
+      "Mathematics",
+      "Education",
+      "Pets",
+      "Motorcycles",
+      "Cars",
+      "Sports"
+    ],
+    "reactions": [
+      {
+        "reaction": "like",
+        "probability": 0
+      },
+      {
+        "reaction": "dislike",
+        "probability": 0.1
+      },
+      {
+        "reaction": "watch",
+        "probability": 1
+      },
+      {
+        "reaction": "share",
+        "probability": 0
+      },
+      {
+        "reaction": "skip",
+        "probability": 0
+      }
+    ]
+  },
+    {
+    "id": 15,
+    "username": "50percentdisliker",
+    "email": "dislikepercentage50@gmail.com",
+    "password": "Dislike50%!!",
+    "dob": "1995-09-02",
+    "sex": "Male",
+    "interests": [
+      "Technology",
+      "Science",
+      "Engineering",
+      "Mathematics",
+      "Education",
+      "Pets",
+      "Motorcycles",
+      "Cars",
+      "Sports"
+    ],
+    "reactions": [
+      {
+        "reaction": "like",
+        "probability": 0
+      },
+      {
+        "reaction": "dislike",
+        "probability": 0.5
+      },
+      {
+        "reaction": "watch",
+        "probability": 1
+      },
+      {
+        "reaction": "share",
+        "probability": 0
+      },
+      {
+        "reaction": "skip",
+        "probability": 0
+      }
+    ]
+  },
+    {
+    "id": 16,
+    "username": "100percentdisliker",
+    "email": "dislikepercentage100@gmail.com",
+    "password": "Dislike100%!!",
+    "dob": "1995-09-02",
+    "sex": "Male",
+    "interests": [
+      "Technology",
+      "Science",
+      "Engineering",
+      "Mathematics",
+      "Education",
+      "Pets",
+      "Motorcycles",
+      "Cars",
+      "Sports"
+    ],
+    "reactions": [
+      {
+        "reaction": "like",
+        "probability": 0
+      },
+      {
+        "reaction": "dislike",
+        "probability": 1
+      },
+      {
+        "reaction": "watch",
+        "probability": 1
+      },
+      {
+        "reaction": "share",
+        "probability": 0
+      },
+      {
+        "reaction": "skip",
+        "probability": 0
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "username": "10percentsharer",
+    "email": "sharepercentage10@gmail.com",
+    "password": "Share10%!!",
+    "dob": "1995-09-02",
+    "sex": "Male",
+    "interests": [
+      "Technology",
+      "Science",
+      "Engineering",
+      "Mathematics",
+      "Education",
+      "Pets",
+      "Motorcycles",
+      "Cars",
+      "Sports"
+    ],
+    "reactions": [
+      {
+        "reaction": "like",
+        "probability": 0
+      },
+      {
+        "reaction": "dislike",
+        "probability": 0
+      },
+      {
+        "reaction": "watch",
+        "probability": 0
+      },
+      {
+        "reaction": "share",
+        "probability": 0.1
+      },
+      {
+        "reaction": "skip",
+        "probability": 1
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "username": "25percentsharer",
+    "email": "sharepercentage25@gmail.com",
+    "password": "Share25%!!",
+    "dob": "1995-09-02",
+    "sex": "Male",
+    "interests": [
+      "Technology",
+      "Science",
+      "Engineering",
+      "Mathematics",
+      "Education",
+      "Pets",
+      "Motorcycles",
+      "Cars",
+      "Sports"
+    ],
+    "reactions": [
+      {
+        "reaction": "like",
+        "probability": 0
+      },
+      {
+        "reaction": "dislike",
+        "probability": 0
+      },
+      {
+        "reaction": "watch",
+        "probability": 0
+      },
+      {
+        "reaction": "share",
+        "probability": 0.25
+      },
+      {
+        "reaction": "skip",
+        "probability": 1
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "username": "50percentsharer",
+    "email": "sharepercentage50@gmail.com",
+    "password": "Share50%!!",
+    "dob": "1995-09-02",
+    "sex": "Male",
+    "interests": [
+      "Technology",
+      "Science",
+      "Engineering",
+      "Mathematics",
+      "Education",
+      "Pets",
+      "Motorcycles",
+      "Cars",
+      "Sports"
+    ],
+    "reactions": [
+      {
+        "reaction": "like",
+        "probability": 0
+      },
+      {
+        "reaction": "dislike",
+        "probability": 0
+      },
+      {
+        "reaction": "watch",
+        "probability": 0
+      },
+      {
+        "reaction": "share",
+        "probability": 0.5
+      },
+      {
+        "reaction": "skip",
+        "probability": 1
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "username": "75percentsharer",
+    "email": "sharepercentage75@gmail.com",
+    "password": "Share75%!!",
+    "dob": "1995-09-02",
+    "sex": "Male",
+    "interests": [
+      "Technology",
+      "Science",
+      "Engineering",
+      "Mathematics",
+      "Education",
+      "Pets",
+      "Motorcycles",
+      "Cars",
+      "Sports"
+    ],
+    "reactions": [
+      {
+        "reaction": "like",
+        "probability": 0
+      },
+      {
+        "reaction": "dislike",
+        "probability": 0
+      },
+      {
+        "reaction": "watch",
+        "probability": 0
+      },
+      {
+        "reaction": "share",
+        "probability": 0.75
+      },
+      {
+        "reaction": "skip",
+        "probability": 1
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "username": "100percentsharer",
+    "email": "sharepercentage100@gmail.com",
+    "password": "Share100%!!",
+    "dob": "1995-09-02",
+    "sex": "Male",
+    "interests": [
+      "Technology",
+      "Science",
+      "Engineering",
+      "Mathematics",
+      "Education",
+      "Pets",
+      "Motorcycles",
+      "Cars",
+      "Sports"
+    ],
+    "reactions": [
+      {
+        "reaction": "like",
+        "probability": 0
+      },
+      {
+        "reaction": "dislike",
+        "probability": 0
+      },
+      {
+        "reaction": "watch",
+        "probability": 0
+      },
+      {
+        "reaction": "share",
+        "probability": 1
+      },
+      {
+        "reaction": "skip",
+        "probability": 1
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "username": "100percentall",
+    "email": "allpercentage100@gmail.com",
+    "password": "All100%!!",
+    "dob": "1995-09-02",
+    "sex": "Male",
+    "interests": [
+      "Technology",
+      "Science",
+      "Engineering",
+      "Mathematics",
+      "Education",
+      "Pets",
+      "Motorcycles",
+      "Cars",
+      "Sports"
+    ],
+    "reactions": [
+      {
+        "reaction": "like",
+        "probability": 1
+      },
+      {
+        "reaction": "dislike",
+        "probability": 1
+      },
+      {
+        "reaction": "watch",
+        "probability": 1
+      },
+      {
+        "reaction": "share",
+        "probability": 1
+      },
+      {
+        "reaction": "skip",
+        "probability": 1
+      }
+    ]
+  },
+   {
+    "id": 23,
+    "username": "100percentliker3",
+    "email": "likepercentage100v3@gmail.com",
+    "password": "Like100%!!",
+    "dob": "1995-09-02",
+    "sex": "Male",
+    "interests": [
+      "Technology",
+      "Science",
+      "Engineering",
+      "Mathematics",
+      "Education",
+      "Pets",
+      "Motorcycles",
+      "Cars",
+      "Sports"
+    ],
+    "reactions": [
+      {
+        "reaction": "like",
+        "probability": 1
+      },
+      {
+        "reaction": "dislike",
+        "probability": 0
+      },
+      {
+        "reaction": "watch",
+        "probability": 0
+      },
+      {
+        "reaction": "share",
+        "probability": 0
+      },
+      {
+        "reaction": "skip",
+        "probability": 1
+      }
+    ]
+  },
+    {
+    "id": 24,
+    "username": "10percentdisliker2",
+    "email": "dislikepercentage10v2@gmail.com",
+    "password": "Dislike10%!!",
+    "dob": "1995-09-02",
+    "sex": "Male",
+    "interests": [
+      "Technology",
+      "Science",
+      "Engineering",
+      "Mathematics",
+      "Education",
+      "Pets",
+      "Motorcycles",
+      "Cars",
+      "Sports"
+    ],
+    "reactions": [
+      {
+        "reaction": "like",
+        "probability": 0
+      },
+      {
+        "reaction": "dislike",
+        "probability": 0.1
+      },
+      {
+        "reaction": "watch",
+        "probability": 1
+      },
+      {
+        "reaction": "share",
+        "probability": 0
+      },
+      {
+        "reaction": "skip",
+        "probability": 0
+      }
+    ]
+  },
+    {
+    "id": 25,
+    "username": "100percentdisliker2",
+    "email": "dislikepercentage100v2@gmail.com",
+    "password": "Dislike100%!!",
+    "dob": "1995-09-02",
+    "sex": "Male",
+    "interests": [
+      "Technology",
+      "Science",
+      "Engineering",
+      "Mathematics",
+      "Education",
+      "Pets",
+      "Motorcycles",
+      "Cars",
+      "Sports"
+    ],
+    "reactions": [
+      {
+        "reaction": "like",
+        "probability": 0
+      },
+      {
+        "reaction": "dislike",
+        "probability": 1
+      },
+      {
+        "reaction": "watch",
+        "probability": 0
+      },
+      {
+        "reaction": "share",
+        "probability": 0
+      },
+      {
+        "reaction": "skip",
+        "probability": 1
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "username": "10percentsharer2",
+    "email": "sharepercentage10v2@gmail.com",
+    "password": "Share10%!!",
+    "dob": "1995-09-02",
+    "sex": "Male",
+    "interests": [
+      "Technology",
+      "Science",
+      "Engineering",
+      "Mathematics",
+      "Education",
+      "Pets",
+      "Motorcycles",
+      "Cars",
+      "Sports"
+    ],
+    "reactions": [
+      {
+        "reaction": "like",
+        "probability": 0
+      },
+      {
+        "reaction": "dislike",
+        "probability": 0
+      },
+      {
+        "reaction": "watch",
+        "probability": 0
+      },
+      {
+        "reaction": "share",
+        "probability": 0.1
+      },
+      {
+        "reaction": "skip",
+        "probability": 1
+      }
+    ]
+  },
+    {
+    "id": 27,
+    "username": "100percentliker4",
+    "email": "likepercentage100v4@gmail.com",
+    "password": "Like100%!!",
+    "dob": "1995-09-02",
+    "sex": "Male",
+    "interests": [
+      "Technology",
+      "Science",
+      "Engineering",
+      "Mathematics",
+      "Education",
+      "Pets",
+      "Motorcycles",
+      "Cars",
+      "Sports"
+    ],
+    "reactions": [
+      {
+        "reaction": "like",
+        "probability": 1
+      },
+      {
+        "reaction": "dislike",
+        "probability": 0
+      },
+      {
+        "reaction": "watch",
+        "probability": 0
+      },
+      {
+        "reaction": "share",
+        "probability": 0
+      },
+      {
+        "reaction": "skip",
+        "probability": 1
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "username": "100percentskipper",
+    "email": "skippercentage100@gmail.com",
+    "password": "Skip100%!!",
+    "dob": "1995-09-02",
+    "sex": "Male",
+    "interests": [
+      "Technology",
+      "Science",
+      "Engineering",
+      "Mathematics",
+      "Education",
+      "Pets",
+      "Motorcycles",
+      "Cars",
+      "Sports"
+    ],
+    "reactions": [
+      {
+        "reaction": "like",
+        "probability": 0
+      },
+      {
+        "reaction": "dislike",
+        "probability": 0
+      },
+      {
+        "reaction": "watch",
+        "probability": 0
+      },
+      {
+        "reaction": "share",
+        "probability": 0
+      },
+      {
+        "reaction": "skip",
+        "probability": 1
+      }
+    ]
+  }
+]

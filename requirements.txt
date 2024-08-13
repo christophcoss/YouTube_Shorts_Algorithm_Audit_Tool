@@ -1,0 +1,9 @@
+google_api_python_client==2.125.0
+matplotlib==3.8.4
+mercury==2.3.10
+numpy==1.26.4
+ollama==0.1.9
+openai==1.26.0
+pandas==2.2.2
+psycopg2==2.9.9
+python_dateutil==2.9.0.post0
